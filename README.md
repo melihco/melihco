@@ -3,7 +3,7 @@
 
 <img src="https://media.istockphoto.com/id/1469116545/tr/vekt%C3%B6r/welcome-black-banner-header-print-sticker-stamp.jpg?s=170667a&amp;w=0&amp;k=20&amp;c=RLbw9D41f-P4mdVUj43oRQnihF4fqR4_sLiTTQtnmqA=" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 689px; height: 259px; margin: 22.5px 0px; width: 192px;"  jsname="kn3ccd" aria-hidden="false">
 
-- 🔭 I’m currently working on [Martı Tech](https://www.marti.tech/)
+- 🔭 I’m currently working Seagull
 
 - 🌱 I’m currently learning **TypeScript, Node.js**
 
