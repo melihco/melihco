@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
 <h3 align="center">A Backend Developer from Turkey</h3>
 
-- 🔭 I’m currently working Seagull
+- 🔭 I’m currently working a Micromobility Company
 
 - 🌱 I’m currently learning **TypeScript, Node.js**
 
